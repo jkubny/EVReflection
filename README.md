@@ -2,6 +2,7 @@
 - Fixes of crashes
 - Update for NSManagedObject support custom initializable
 - No super class needed.
+- Added support for optional dictionary key : propertyName mapping.
 
 # EVReflection
 
