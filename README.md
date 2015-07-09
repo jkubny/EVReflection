@@ -1,3 +1,8 @@
+# EVReflection For implementation as Swift 2.0 protocol + protocol extension
+- Fixes of crashes
+- Update for NSManagedObject support custom initializable
+- No super class needed.
+
 # EVReflection
 
 [![Circle CI](https://img.shields.io/circleci/project/evermeer/EVReflection.svg?style=flat)](https://circleci.com/gh/evermeer/EVReflection)
