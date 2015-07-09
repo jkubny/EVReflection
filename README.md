@@ -1,4 +1,4 @@
-# EVReflection For implementation as Swift 2.0 protocol + protocol extension
+# EVReflection implemented as Swift 2.0 protocol + protocol extension
 - Fixes of crashes
 - Update for NSManagedObject support custom initializable
 - No super class needed.
